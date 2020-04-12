@@ -24,4 +24,5 @@ bld/
 
 # Visual Studio 2015 cache/options directory
 .vs/
+.vs/
 # Uncomment if you have tasks that create the
