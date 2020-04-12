@@ -1,0 +1,6 @@
+E:\2018\Show\KaanhSocketExample\KaanhSocketExample\bin\Debug\KaanhSocketExample.exe.config
+E:\2018\Show\KaanhSocketExample\KaanhSocketExample\obj\Debug\KaanhSocketExample.csprojResolveAssemblyReference.cache
+E:\2018\Show\KaanhSocketExample\KaanhSocketExample\bin\Debug\KaanhSocketExample.exe
+E:\2018\Show\KaanhSocketExample\KaanhSocketExample\bin\Debug\KaanhSocketExample.pdb
+E:\2018\Show\KaanhSocketExample\KaanhSocketExample\obj\Debug\KaanhSocketExample.exe
+E:\2018\Show\KaanhSocketExample\KaanhSocketExample\obj\Debug\KaanhSocketExample.pdb
